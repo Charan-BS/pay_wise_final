@@ -10,7 +10,7 @@ import 'package:paywise_android/firebase_options.dart';
 import 'package:paywise_android/src/features/authentication/screens/splash_screen/splash_screen.dart';
 import 'package:paywise_android/src/repository/authentication_repository/authentication_repository.dart';
 import 'package:uuid/uuid.dart';
-
+//changing from browser
 Uuid uuid = const Uuid();
 
 @pragma('vm:entry-point')
